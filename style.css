@@ -38,9 +38,9 @@ header {
 }
 
 .logo img {
-    height: 60px;
+    height: 80px;
     width: auto;
-    margin-right: 5px;
+    margin-right: 1px;
 }
 
 nav ul {
@@ -163,4 +163,5 @@ footer {
 
 .gallery-grid img:hover {
     transform: scale(1.05);
+
 }
